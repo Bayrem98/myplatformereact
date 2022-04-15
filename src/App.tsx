@@ -6,7 +6,7 @@ import ForgetPassword from "./components/ForgetPassword";
 function App() {
   return (
     <div className="App">
-      <div className="container">{<Dashboard />}</div>
+      <div className="container">{<Login />}</div>
     </div>
   );
 }
