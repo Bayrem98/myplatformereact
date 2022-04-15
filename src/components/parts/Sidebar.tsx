@@ -13,10 +13,6 @@ const Sidebar = () => {
             <MenuItem>Algerien</MenuItem>
             <MenuItem>Marocain</MenuItem>
           </SubMenu>
-          <SubMenu title="American">
-            <MenuItem>American</MenuItem>
-            <MenuItem>Canadien</MenuItem>
-          </SubMenu>
           <SubMenu title="European">
             <MenuItem>Français</MenuItem>
             <MenuItem>Espagnol</MenuItem>
